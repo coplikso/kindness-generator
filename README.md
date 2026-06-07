@@ -1,6 +1,7 @@
 # 🌿 Random Acts of Kindness — Daily Challenge Generator
 
 A lightweight, browser-based web app that serves up one kindness challenge a day. No backend, no accounts, no fuss — just open it and go be kind.
+https://coplikso.github.io/kindness-generator/
 
 ---
 
