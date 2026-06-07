@@ -179,7 +179,7 @@ function markDone() {
 function shareChallenge() {
   if (!currentChallenge) { showToast('Generate a challenge first!'); return; }
 
-  const text = `Today's kindness challenge: "${currentChallenge.text}" — try it too! 💛`;
+  const text = `Today's kindness challenge: "${currentChallenge.text}" — try it too at https://coplikso.github.io/kindness-generator/`;
 
   if (navigator.share) {
     navigator.share({ text }).catch(() => {});
